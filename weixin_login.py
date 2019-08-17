@@ -20,7 +20,7 @@ class WechatLogin:
         }
         self.QRImgPath = os.path.split(os.path.realpath(__file__))[0] + os.sep + 'webWeixinQr.jpg'
         self.username = "1379960679@qq.com"
-        self.password = "hx20150219."
+        self.password = "cxxxxxxxxxx."
         self.token = ''
 
     def weixin_login(self):
